@@ -1,0 +1,100 @@
+body {
+	background-image: url("../images/purple.png");
+	background-repeat: repeat-y;
+}
+ #container {
+ 	height: 1000px;
+ }
+
+
+h1 {
+	font-family: "Acme", sans-serif;
+	font-size: 40px;
+	margin: 10px;
+}
+
+#crystals {
+	margin:0;
+	position: relative;
+	top: -70px;
+	
+}
+
+p {
+	font-family: "Slabo 27px", serif;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+#instructions {
+	background-color: #c9fcff;
+	width: 800px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#counters {
+	width: 100px;
+	height: 80px;
+	box-sizing: border-box;
+	padding-top: 15px;
+	padding-left: 10px;
+	background-color: #c9fcff;
+	margin: 10px;
+	display: inline-block;
+	position: relative;
+	top: 25px;
+	
+}
+
+#random {
+	width: 150px;
+	height: 150px;
+	background-color: #c9fcff;
+	margin: 10px;
+	display: inline-block;
+
+	
+}
+
+#therandomnumber {
+	font-size: 30px;
+	padding: 10px;
+}
+
+#pinkcrystal {
+	cursor: pointer;
+}
+
+#purplecrystal {
+	cursor: pointer;
+}
+
+#rainbowcrystal {
+	cursor: pointer;
+}
+
+#bluecrystal {
+	cursor: pointer;
+}
+#scoretitle {
+	background-color: #c9fcff;
+	width: 277px;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+#score {
+	background-color: #c9fcff;
+	width: 277px;
+	height: 80px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+#scorenumber {
+	font-size: 30px;
+
+}
