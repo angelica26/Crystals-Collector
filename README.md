@@ -1,4 +1,4 @@
-#Crystals Collector
+# Crystals Collector
 ### A children's math game
 
 ![A nice assortment of crystals](assets/images/somecrystals.jpg)
